@@ -23,20 +23,20 @@ reactjs-boilerplate
 └── src
 	├── assets
 	├── components
-    │	├── atoms
-    │	├── molecules
-    │	├── organisms
-    │	├── templates
+    	│	├── atoms
+    	│	├── molecules
+    	│	├── organisms
+    	│	├── templates
 	├── configs
 	├── containers
 	├── pages
 	├── routes
 	├── services
-    ├── utils
+    	├── utils
 	├── App.js
-    ├── App.test.js
+    	├── App.test.js
 	├── index.js
-    ├── serviceWorker.js
+    	├── serviceWorker.js
 	└── setupTests.js
 
 ```
